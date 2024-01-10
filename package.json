@@ -3,14 +3,14 @@
     "cypress": "^13.6.2"
   },
   "scripts": {
-		"cy:open": "npx cypress open",
-		"cy:test": "npx cypress run"
-	},
+    "cy:open": "npx cypress open",
+    "cy:test": "npx cypress run"
+  },
   "keywords": [
-		"cypress",
-		"tests",
-		"github-actions"
-	],
+    "cypress",
+    "tests",
+    "github-actions"
+  ],
   "devDependencies": {
     "typescript": "^5.3.3"
   }
